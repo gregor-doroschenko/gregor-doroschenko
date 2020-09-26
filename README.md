@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Full Stack Software Engineer & Trainer with 9 years of experience
+Education: B.Sc. in Media Computer Science
+Specialities: Web-Development, Frontend- & Backend-Development
+Technologies: JavaScript/TypeScript, Angular, VueJs, GoLang, HTML/CSS
+
 <!--
 **gregor-doroschenko/gregor-doroschenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
