@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 Full Stack Software Engineer & Trainer with 9 years of experience
+
 Education: B.Sc. in Media Computer Science
+
 Specialities: Web-Development, Frontend- & Backend-Development
+
 Technologies: JavaScript/TypeScript, Angular, VueJs, GoLang, HTML/CSS
 
 <!--
