@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm passionate and hardworking software engineer with 9 years of experience in Web- & Software-Development is looking for interesting projects. 👋
 
 Full Stack Software Engineer & Trainer with 9 years of experience
 
