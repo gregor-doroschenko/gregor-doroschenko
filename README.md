@@ -6,7 +6,7 @@ Education: B.Sc. in Media Computer Science
 
 Specialities: Web-Development, Frontend- & Backend-Development
 
-Technologies: JavaScript/TypeScript, Angular, VueJs, GoLang, HTML/CSS
+Technologies: JavaScript/TypeScript, Angular, VueJs, GoLang, Node.js, HTML/CSS
 
 <!--
 **gregor-doroschenko/gregor-doroschenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
