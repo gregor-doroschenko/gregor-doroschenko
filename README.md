@@ -1,6 +1,6 @@
 ### Hi, I'm passionate and hardworking software engineer and I'm looking for interesting projects. 👋
 
-Full Stack Software Engineer & Trainer with 9 years of experience
+Full Stack Software Engineer & Trainer with 10+ years of experience
 
 Education: B.Sc. in Media Computer Science
 
