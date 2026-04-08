@@ -1,24 +1,28 @@
-### Hi, I'm passionate and hardworking software engineer and I'm looking for interesting projects. 👋
+# Hi there, I'm Gregor Doroschenko 👋
 
-Full Stack Software Engineer & Trainer with 10+ years of experience
+**Freelance Senior Angular Architect & Interim Engineering Manager | Founder of Hold My Code GmbH**
 
-Education: B.Sc. in Media Computer Science
+I specialize in the architecture of scalable enterprise web applications and full-stack delivery with TypeScript end-to-end. With over 15 years of experience in professional software development, I help enterprise teams modernize their platforms, reduce technical debt, and scale efficiently.
 
-Specialities: Web-Development, Frontend- & Backend-Development
+## 🚀 What I Do
+* **Enterprise Frontend Modernization:** Executing zero-downtime Angular migrations for high-traffic systems (5,000+ users).
+* **Performance Optimization:** Cutting application load times by 65%+ through architecture refactoring and modern rendering strategies.
+* **Technical Leadership:** Building remote teams, mentoring developers, and bridging the gap between business stakeholders and technology.
+* **AI-Augmented Development:** Integrating LLMs (Gemini/Claude) and RAG architectures to accelerate delivery cycles and automate intelligent workflows.
 
-Technologies: JavaScript/TypeScript, Angular, VueJs, GoLang, Node.js, HTML/CSS
+## 💻 Tech Stack
+* **Frontend:** Angular Core (Zoneless, Standalone, Signals, Nx), React / Next.js, SvelteKit, TailwindCSS.
+* **Backend & API:** Node.js, NestJS, PostgreSQL, GraphQL (Apollo), REST.
+* **Cloud & DevOps:** AWS, Docker, GitLab CI, Terraform (IaC).
+* **AI & Innovation:** RAG Architecture, Agentic AI, Prompt Engineering, Gemini/Claude APIs.
 
-<!--
-**gregor-doroschenko/gregor-doroschenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Working On
+* Leading technical consulting for companies modernizing their frontend platforms.
+* Architecting an AI-powered SaaS platform for photography studio operators.
+* Delivering hands-on Angular Deep Dive Workshops for client teams.
 
-Here are some ideas to get you started:
+## 📫 Let's Connect
+* **Website:** [holdmycode.com](https://holdmycode.com)
+* **LinkedIn:** [gregor-doroschenko](https://www.linkedin.com/in/gregor-doroschenko/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Available for freelance/contracting projects (Remote / Berlin area).*
